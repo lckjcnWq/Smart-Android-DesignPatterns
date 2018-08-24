@@ -38,9 +38,9 @@ Decorator （装饰模式）         https://blog.csdn.net/wu371894545/article/d
 
 Facade （外观模式）            https://blog.csdn.net/wu371894545/article/details/53883952
 
-Flyweight （享元模式）
+Flyweight （享元模式）         https://blog.csdn.net/self_study/article/details/51870660
 
-Proxy （代理模式）
+Proxy （代理模式）             https://blog.csdn.net/self_study/article/details/51628486
 
 
 

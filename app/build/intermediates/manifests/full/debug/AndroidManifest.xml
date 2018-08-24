@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jingbin.designpattern"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="27" />
+
+    <application
+        android:name="com.example.jingbin.designpattern.app.PatternApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.jingbin.designpattern.MainActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.jingbin.designpattern.observer.ObserverActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.factory.FactoryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.singleton.SingletonActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.strategy.StrategyActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.adapter.AdapterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.command.CommandActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.decorator.DecoratorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.facade.FacadeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.templatemethod.TemplateMethodActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.state.StateActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.bridge.BridgeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.prototype.ProtoTypeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.composite.CompositeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.flyweight.FlyWightActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.proxy.ProxyActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.builder.BuilderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.interpreter.InterpreterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.interator.InteratorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.mediator.MediatorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.memento.MementoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.visitor.VisitorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.jingbin.designpattern.chainofres.ChniaofResActivity"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

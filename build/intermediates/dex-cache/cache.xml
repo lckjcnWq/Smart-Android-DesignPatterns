@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\wuquan.LANDCHINA\.android\build-cache\fbb941d29c007e9d77aeef30959510eb2fd5a8c3\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8457a7f8b2bf9ae3f76bf06e958f7e84285c6667.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wuquan.LANDCHINA\.android\build-cache\6002be5f7e2839eaa0e5a27530cc4de04a9af76a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\classes_4fc1e39e3315d2cc852aa86d6c333e0df2f6320c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wuquan.LANDCHINA\.android\build-cache\9d14784d54d2a916829380996c02ca7bff3552dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\classes_a0b6c0dabbaea834f0f862ce6a415d88ddb50e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wuquan.LANDCHINA\.android\build-cache\6002be5f7e2839eaa0e5a27530cc4de04a9af76a\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a366077901296dc50e8acc642e9324bca03e2b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wuquan.LANDCHINA\.android\build-cache\ff093e7226783d428daf324eb2d3f75474c9a070\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\classes_f9256f582515caf0177e28c25299df54fd41b126.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wuquan.LANDCHINA\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_4765c444a833cd65770ef0eed3ea7ce26d161aca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wuquan.LANDCHINA\.android\build-cache\93ff23bf95e6f5709b845c94f6d08af51f4c2ea0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\classes_25233e803be84c16d5a1f9e6e6c19d75668f362e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wuquan.LANDCHINA\.android\build-cache\219dedc3ab3be3674048387f0cc3cc445ff5a126\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\classes_5be6c029d067714e5a98c30a9587cef4be97ca2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wuquan.LANDCHINA\.android\build-cache\1d33d0beab3eeb9af8bbb27576968f013d162899\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\classes_60f091ed944ca9db3915aa5cc2fb2b1ca9be4536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wuquan.LANDCHINA\.android\build-cache\ff093e7226783d428daf324eb2d3f75474c9a070\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3b8804fd2865c610772570ca4cb3b75a9b3ccd92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wuquan.LANDCHINA\.android\build-cache\9136e88c06fa0ab487617ccfb1e31a8c216377e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\classes_439c7120cb34f6f9cb603e38146b290d88ed0bd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wuquan.LANDCHINA\.android\build-cache\1d33d0beab3eeb9af8bbb27576968f013d162899\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6e9d8f2240595e4a4d16335463c7d4ccd52e5c74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wuquan.LANDCHINA\.android\build-cache\9d14784d54d2a916829380996c02ca7bff3552dd\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c80fd83f023ba16a6037095211c9b8d941099c4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wuquan.LANDCHINA\.android\build-cache\fdab74a25ddf8e16013a60c24de1f138aa7ef628\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\classes_7e0920133598f070f87add279a78076ef74805c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wuquan.LANDCHINA\.android\build-cache\fbb941d29c007e9d77aeef30959510eb2fd5a8c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\classes_1b0d4c3adc3a9e2f72e64fafe221521c94f37d15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wuquan.LANDCHINA\.android\build-cache\a0f201b4cdd42852620448669620e3489d4defb4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\classes_f10222d66e3142ed3c9fe1601e72dba9b87ce09f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\soft\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\soft\Android\ProjectForAs\Pattern-master\Pattern-master\Design\DesignPattern-master\DesignPattern-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_19c5baf89d8ea8cba3e57fd9603d819774220ba8.jar" />
+    </item>
+
+</items>

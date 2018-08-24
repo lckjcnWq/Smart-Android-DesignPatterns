@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:2:1-89:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\d5d31e11b233340c2b3d2aaa5be007b2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\72598324b35fec38b2c6fa655d39ec1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d43fdf17b9ae5867286ce4e2feaf6a2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5a0cd21e254b32a8da5d65582fafa17d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a26a2d0ec18ec2f29299f18f06f7cbe0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\49a062b7feae34f28e2a3ec33c41c5b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b35af5311777f079ea36c322b8eb30b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6f71fd425ae072233dc0c94b1f8dc0f9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\14ccc979197515dd26a4ebe71790c0f5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5e67ed66cad7a4c25c12d2664a067295\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6f28488abc5fc477989401ae83237cc5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\16404b43580e7c979b77800efc2f3bc0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:2:1-89:12
+	package
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:2:1-89:12
+		INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:2:1-89:12
+		INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:5:5-87:19
+	android:supportsRtl
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:8:9-38
+	android:allowBackup
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:11:9-40
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:6:9-47
+activity#com.example.jingbin.designpattern.MainActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:14:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.jingbin.designpattern.observer.ObserverActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:21:9-23:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:23:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:22:13-54
+activity#com.example.jingbin.designpattern.factory.FactoryActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:24:9-26:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:26:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:25:13-52
+activity#com.example.jingbin.designpattern.singleton.SingletonActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:27:9-29:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:28:13-56
+activity#com.example.jingbin.designpattern.strategy.StrategyActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:30:9-32:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:31:13-54
+activity#com.example.jingbin.designpattern.adapter.AdapterActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:33:9-35:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:34:13-52
+activity#com.example.jingbin.designpattern.command.CommandActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:36:9-38:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:37:13-52
+activity#com.example.jingbin.designpattern.decorator.DecoratorActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:39:9-41:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:40:13-56
+activity#com.example.jingbin.designpattern.facade.FacadeActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:42:9-44:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:43:13-50
+activity#com.example.jingbin.designpattern.templatemethod.TemplateMethodActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:45:9-47:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:46:13-66
+activity#com.example.jingbin.designpattern.state.StateActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:49:13-48
+activity#com.example.jingbin.designpattern.bridge.BridgeActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:51:9-53:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:52:13-50
+activity#com.example.jingbin.designpattern.prototype.ProtoTypeActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:54:9-56:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:55:13-56
+activity#com.example.jingbin.designpattern.composite.CompositeActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:57:9-59:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:58:13-56
+activity#com.example.jingbin.designpattern.flyweight.FlyWightActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:60:9-62:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:62:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:61:13-55
+activity#com.example.jingbin.designpattern.proxy.ProxyActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:63:9-65:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:64:13-48
+activity#com.example.jingbin.designpattern.builder.BuilderActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:66:9-68:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:67:13-52
+activity#com.example.jingbin.designpattern.interpreter.InterpreterActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:69:9-71:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:71:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:70:13-60
+activity#com.example.jingbin.designpattern.interator.InteratorActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:72:9-74:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:74:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:73:13-56
+activity#com.example.jingbin.designpattern.mediator.MediatorActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:75:9-77:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:77:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:76:13-54
+activity#com.example.jingbin.designpattern.memento.MementoActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:78:9-80:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:80:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:79:13-52
+activity#com.example.jingbin.designpattern.visitor.VisitorActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:81:9-83:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:83:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:82:13-52
+activity#com.example.jingbin.designpattern.chainofres.ChniaofResActivity
+ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:84:9-86:52
+	android:screenOrientation
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:86:13-49
+	android:name
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml:85:13-58
+uses-sdk
+INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\d5d31e11b233340c2b3d2aaa5be007b2\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\d5d31e11b233340c2b3d2aaa5be007b2\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\72598324b35fec38b2c6fa655d39ec1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\72598324b35fec38b2c6fa655d39ec1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d43fdf17b9ae5867286ce4e2feaf6a2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d43fdf17b9ae5867286ce4e2feaf6a2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5a0cd21e254b32a8da5d65582fafa17d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5a0cd21e254b32a8da5d65582fafa17d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a26a2d0ec18ec2f29299f18f06f7cbe0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a26a2d0ec18ec2f29299f18f06f7cbe0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\49a062b7feae34f28e2a3ec33c41c5b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\49a062b7feae34f28e2a3ec33c41c5b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b35af5311777f079ea36c322b8eb30b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b35af5311777f079ea36c322b8eb30b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6f71fd425ae072233dc0c94b1f8dc0f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6f71fd425ae072233dc0c94b1f8dc0f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\14ccc979197515dd26a4ebe71790c0f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\14ccc979197515dd26a4ebe71790c0f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5e67ed66cad7a4c25c12d2664a067295\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5e67ed66cad7a4c25c12d2664a067295\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6f28488abc5fc477989401ae83237cc5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6f28488abc5fc477989401ae83237cc5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\16404b43580e7c979b77800efc2f3bc0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\16404b43580e7c979b77800efc2f3bc0\AndroidManifest.xml:20:5-44
+INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\study\DesignPattern-master\DesignPattern-master\app\src\main\AndroidManifest.xml

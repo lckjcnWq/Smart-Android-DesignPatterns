@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\soft\\Android\\ProjectForAs\\Pattern-master\\Pattern-master\\Design\\DesignPattern-master\\DesignPattern-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\wuquan.LANDCHINA\\.android\\build-cache\\ff4b1bf62ac884c79dff86d8e51527a5ab08c169\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

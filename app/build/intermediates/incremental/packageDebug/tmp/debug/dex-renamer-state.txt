@@ -1,0 +1,4 @@
+#Fri Aug 24 22:54:28 CST 2018
+base.0=D\:\\study\\DesignPattern-master\\DesignPattern-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
